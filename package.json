@@ -12,9 +12,15 @@
 		"name": "Vitalij Rerich",
 		"email": "info@rerich-software.de"
 	},
+	"contributors": [
+		{
+			"name": "Pascal Colditz",
+			"email": "pc@geocapture.de"
+		}
+	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/geocapture/n8n-nodes-geocapture.git"
+		"url": "https://github.com/geocapture/n8n-nodes-geocapture.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
