@@ -14,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git://github.com/geocapture/n8n-nodes-geocapture.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
@@ -38,6 +38,7 @@
 			"dist/nodes/Geocapture/GeocaptureTrigger.node.js"
 		]
 	},
+	"dependencies": {},
 	"devDependencies": {
 		"@n8n/node-cli": "*",
 		"eslint": "9.32.0",
