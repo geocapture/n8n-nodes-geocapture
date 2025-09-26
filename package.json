@@ -3,14 +3,14 @@
 	"version": "0.1.1",
 	"description": "n8n community node to work with the geoCapture API",
 	"license": "MIT",
-	"homepage": "https://geocapture.de",
+	"homepage": "https://github.com/geocapture/n8n-nodes-geocapture",
 	"private": false,
 	"keywords": [
 		"n8n-community-node-package"
 	],
 	"author": {
 		"name": "Vitalij Rerich",
-		"email": "vr@geocapture.de"
+		"email": "info@rerich-software.de"
 	},
 	"repository": {
 		"type": "git",
