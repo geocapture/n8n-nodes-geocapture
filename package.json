@@ -1,6 +1,6 @@
 {
 	"name": "@geocapture/n8n-nodes-geocapture",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "n8n community node to work with the geoCapture API",
 	"license": "MIT",
 	"homepage": "https://github.com/geocapture/n8n-nodes-geocapture",
